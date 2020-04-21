@@ -15,6 +15,6 @@ For example:
      
      1     0     0     0     1     ##1d+
      
-    -5     0     0     0     0    ## I think this means -5    
+    -5     0     0     0     0    ## -5    
    
 
