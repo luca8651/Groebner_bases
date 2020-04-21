@@ -7,7 +7,7 @@ Every matrix has this format:
 
 Each row is a polynomial, column is used for numbers, the following columns are the variables (a,b,c,…).
 
-Entry (i,j) in the matrix is the power to give to that variable in polynomial i.
+Entry (i,j) in the matrix is the power to give to that variable of column j in polynomial i.
 For example:
            a     b     c     d
            
