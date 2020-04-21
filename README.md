@@ -1,5 +1,7 @@
 # Groebner_bases
 
+This is a collection of MATLAB functions I used during my PhD to perform polynomial reduction, using Groebner bases theory.
+
 G is a cell array where each element is a matrix, representing a single equation.
 Every matrix has this format:
 
