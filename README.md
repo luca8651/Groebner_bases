@@ -20,3 +20,6 @@ For example:
     -5     0     0     0     0    ## -5    
    
 
+represents the equation 
+
+1a^2+c+d-5=0
